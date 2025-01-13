@@ -1,4 +1,4 @@
-<h1>HomeLab Over View</h1>
+<h1>HomeLab Overview</h1>
 
 <h2>Description</h2>
 Creating my own home lab using PfSense router/firewall solution configuring pi-hole as my DNS to block unwanted AD's. Acme for signed certificates for cloudflare and haproxy. The type 1 hypervisor I will be using is ProxMox. Then to finish it all up I will be using haproxy to link my ProxMox server to the public web and use content switching to access services that have a landing page and Apache Guacmole to have RDP access via any web browser to the various VM's that do not have a landing page for access.
