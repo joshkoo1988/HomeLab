@@ -7,7 +7,7 @@ Creating my own home lab using PfSense router/firewall solution configuring pi-h
 
 <h2>Hardware</h2>
 - <b>Dell T620</b>
-- <b>Kamrui Mini PC 4 port NIC</b>
+- <b>Kamrui Mini PC with 4 port NIC</b>
 - <b>Managed Switch</b>
 
 <h2>Router & Firewall</h2>
