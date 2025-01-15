@@ -10,7 +10,7 @@ Creating my own home lab using PfSense router/firewall solution configuring pi-h
 - <b>Kamrui Mini PC with 4 port NIC</b>
 - <b>Managed Switch</b>
 
-<h2>Router & Firewall</h2>
+<h2><a href="https://github.com/joshkoo1988/PfSense-firewall">Router & Firewall </a> </h2>
 - <b>PfSense</b>
 - <b>acme</b>
 - <b>pihole</b>
