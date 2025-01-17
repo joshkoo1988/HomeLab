@@ -9,11 +9,13 @@ This repository is more to document the various hardware and parts I am using to
 
 <h2>Hardware</h2>
 - <b>Dell T620</b>
-- <b>VNOPN micro firewall</b>
-- <b>Managed Switch</b>
 - <b>2x ICY DOCK 2 bay 2.5 SAS +3.5" slot</b>
 - <b>ICY DOCK 6 bay SSD</b>
 - <b>3x 9211 HBA</b>
+- <b>300 GB ram</b>
+- <b>2x 6 core Intel CPU</b> <br>
+- <b>VNOPN micro firewall</b>
+- <b>Managed Switch</b>
 
 <h2><a href="https://github.com/joshkoo1988/PfSense-firewall">Router & Firewall </a> </h2>
 - <b>PfSense</b>
