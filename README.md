@@ -17,14 +17,14 @@ This repository is more to document the various hardware and parts I am using to
 - <b>VNOPN micro firewall</b>
 - <b>Managed Switch</b>
 
-<h2><a href="https://github.com/joshkoo1988/PfSense-firewall">Router & Firewall </a> </h2>
+<h2><a href="https://github.com/joshkoo1988/PfSensel">Router & Firewall </a> </h2>
 - <b>PfSense</b>
 - <b>acme</b>
 - <b>pihole</b>
 - <b>haproxy</b>
 - <b>PIA VPN</b>
 
-<h2><a href="https://github.com/joshkoo1988/ProxMox/">ProxMox and Virtual Machines </a> </h2>
+<h2><a href="https://github.com/joshkoo1988/ProxMox-Guides/">ProxMox and Virtual Machines </a> </h2>
 - <b>ProMox</b>
 - <b>Kali Linux</b>
 - <b>Plex Media Server</b>
